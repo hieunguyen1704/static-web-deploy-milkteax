@@ -1,3 +1,3 @@
 # static-web-deploy-milkteax
-## This is static web about milk tea store:
-[Visit at](https://milkteax-store.web.app/)
+## This is static web about milk tea store use firebase to deploy:
+[Visit this website](https://milkteax-store.web.app/)
